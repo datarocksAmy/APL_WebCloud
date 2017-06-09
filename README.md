@@ -7,6 +7,6 @@ Applied Programming Language - Web Cloud-based application
 
 
 
-
+<hr>
 
 ## Lab Assignment
