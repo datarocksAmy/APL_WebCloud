@@ -8,21 +8,25 @@ Applied Programming Language - Web Cloud-based application
 
 ### > ICE #02 - Add to/Transform Google + Rock-Paper-Scissors + RWD Task
 >#2-1- ---
+
 > <a href="">ICE #2-1-Source Code</a>
 
 > <a href="">ICE #2-1-Images</a>
 
 >#2-2- ---
+
 > <a href="">ICE #2-2-Source Code</a>
 
 > <a href="">ICE #2-2-Images</a>
 
 >#2-3- ---
+
 > <a href="">ICE #2-3-Source Code</a>
 
 > <a href="">ICE #2-3-Images</a>
 
 >#2-4- ---
+
 > <a href="">ICE #2-4-Source Code</a>
 
 > <a href="">ICE #2-4-Images</a>
