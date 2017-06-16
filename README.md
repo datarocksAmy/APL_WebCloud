@@ -12,6 +12,8 @@ Applied Programming Language - Web Cloud-based application
 
 ## Lab Assignment
 ### > Lab #01
+
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab01/Source">Lab #1 Source</a>
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab01/Documentation">Lab #1 Documentation</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2301">Lab #1 Wiki Lab Report</a>
