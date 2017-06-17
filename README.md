@@ -8,7 +8,7 @@ Applied Programming Language - Web Cloud-based application
 
 ### > ICE #02 - Rock-Paper-Scissors Function
 
-> <a href="">ICE #2-1-Source Code</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/blob/master/ICE/ICE02/ICE2.js">ICE #2-1-Source Code</a>
 
 <hr>
 
