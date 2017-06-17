@@ -16,7 +16,7 @@ Applied Programming Language - Web Cloud-based application
 ## Lab Assignment
 ### > Lab #01 - Github New Repository Tutorial
 
-> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab01/Source">Lab #1 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab01/Source/index.html">Lab #1 Source</a>
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab01/Documentation">Lab #1 Documentation</a>
 
