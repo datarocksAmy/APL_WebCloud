@@ -1,0 +1,97 @@
+<!--
+  * Programming for Web/Cloud-based Application
+  * LAB #2-1
+  * Build your own online resume
+  * #11 Chia-Hui Amy Lin
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Galdeano' rel='stylesheet' type="text/css">
+    <link href="style.css" rel='stylesheet' type="text/css">
+    <style>
+        body {
+            font-family: 'Galdeano';font-size: 22px;
+        }
+        .flex-container {
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-flow: row wrap;
+            flex-flow: row wrap;
+            text-align: center;
+        }
+
+        .flex-container > * {
+            padding: 15px;
+            -webkit-flex: 1 100%;
+            flex: 1 100%;
+        }
+
+        .article {
+            text-align: left;
+        }
+
+        header {background: greenyellow;color:black;}
+        footer {background: #aaa;color:white;}
+        .nav {background:#eee;}
+
+        .nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .nav ul a {
+            text-decoration: none;
+        }
+
+        @media all and (min-width: 768px) {
+            .nav {text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
+            .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
+            footer {-webkit-order:3;order:3;}
+        }
+    </style>
+</head>
+<div class="page-container">
+<div>
+
+<div class="plate">
+    <p class="script"><span>Data Nerd</span></p>
+    <p class="shadow text1">Amy Lin's</p>
+    <p class="shadow text2">Resume</p>
+    <p class="shadow text3"></p>
+    <p class="script"><span>made in Taiwan</span></p>
+    <p> </p>
+
+    <img class="circle-frame" src="image_me.jpg" width="304" height="300" >
+
+    <div class = "flex-container">
+        <div class="flex-item"><a href="https://github.com/datarocksAmy"><img class="icon" src="github.png"></a></div>
+        <div class="flex-item"><a href="https://www.linkedin.com/in/amy-chia-hui-lin-76554b96"><img class="icon" src="LinkedIn%20icon.ico"></a></div>
+    </div>
+</div>
+    <!--
+<div class="flex-container">
+    <nav class="nav">
+        <ul>
+            <li><a href="#">London</a></li>
+            <li><a href="#">Paris</a></li>
+            <li><a href="#">Tokyo</a></li>
+        </ul>
+    </nav>
+
+    <article class="article">
+        <h1>London</h1>
+        <p>London is the capital city of England. It is the most populous city in the United Kingdom,
+            with a metropolitan area of over 13 million inhabitants.</p>
+        <p>Standing on the River Thames, London has been a major settlement for two millennia,
+            its history going back to its founding by the Romans, who named it Londinium.</p>
+        <p><strong>Resize this page to see that what happens!</strong></p>
+    </article>
+
+    <footer>Copyright &copy; W3Schools.com</footer>
+</div>
+-->
+</div>
+</div>
+
+</body>
+</html>
