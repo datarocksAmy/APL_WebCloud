@@ -13,7 +13,7 @@ Applied Programming Language - Web Cloud-based application
 
 ### > ICE #03 - Favorite Color Picker
 
-> <a href="">ICE #3-Source Code</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/ICE/ICE03">ICE #3-Source Code</a>
 
 <hr>
 
