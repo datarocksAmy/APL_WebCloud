@@ -37,4 +37,4 @@ Applied Programming Language - Web Cloud-based application
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/blob/master/Lab%20Assignment/Lab03/Documentation/GitHubFinder.png">Lab #3 Documentation</a>
 
-> <a href="">Lab #3 Wiki Lab Report</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2303">Lab #3 Wiki Lab Report</a>
