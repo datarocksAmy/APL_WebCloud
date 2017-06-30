@@ -30,3 +30,11 @@ Applied Programming Language - Web Cloud-based application
 ### > Lab #02 - Online Resume
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab02/Source">Lab #2 Source</a>
+
+### > Lab #03 - Github Finder
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab03/Source">Lab #3 Source</a>
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/blob/master/Lab%20Assignment/Lab03/Documentation/GitHubFinder.png">Lab #3 Documentation</a>
+
+> <a href="">Lab #3 Wiki Lab Report</a>
