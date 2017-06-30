@@ -1,0 +1,32 @@
+<!--
+  * Programming for Web/Cloud-based Application
+  * LAB #3
+  * Github API - Search Github account
+  * Reference : http://blog.teamtreehouse.com/code-a-simple-github-api-webapp-using-jquery-ajax
+  * #11 Chia-Hui Amy Lin
+-->
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" media="all" href="Github_Style.css">
+    <script type="text/javascript" src="Github_Script.js"></script>
+    <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
+</head>
+
+<!-- Header -->
+<body>
+<h1><span class="git">Git</span>
+    <span class="hub">Hub</span>
+    <span class="finder">finder</span></h1>
+
+<br></br>
+
+<img class = "pic-frame" src="https://cdn3.iconfinder.com/data/icons/gray-search-view-toolbar/512/agent-512.png" width="250" height="250">
+
+<!-- Search Box + Submit Button -->
+<input type="text" name="ghusername" id="ghusername" placeholder="Github username ...">
+<a href="#" id="ghsubmitbtn">Swing the Magic Wand to Search</a>
+
+<!-- Github results -->
+<div id="ghapidata" class="clearfix"></div>
+</body>
+</html>
