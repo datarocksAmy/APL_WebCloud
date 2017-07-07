@@ -48,4 +48,4 @@ Applied Programming Language - Web Cloud-based application
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab04">Lab #4 Source(Unfinished) </a>
 > --- <a href="https://github.com/daihuaye/ngTetris"> Reference Source</a>
 
-> <a href="">Lab #4 Wiki Lab Report</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2304">Lab #4 Wiki Lab Report</a>
