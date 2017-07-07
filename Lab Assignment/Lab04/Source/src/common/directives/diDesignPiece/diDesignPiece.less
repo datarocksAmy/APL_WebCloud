@@ -1,0 +1,97 @@
+.dy-design-piece {
+  padding-top: 20px;
+  position: relative;
+  .dy-design-container {
+    padding: 5px;
+    display: inline-block;
+    background-color: #bbaaa0;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  .dy-piece-ul {
+    .size(4 * @game-cell-size);
+    margin-bottom: 0px;
+  }
+  .dy-piece-li {
+    .size(@game-cell-size);
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgba(238, 228, 218, 0.35);
+    border: 1px solid #bbaaa0;
+    cursor: pointer;
+  }
+  .dy-alert {
+    position: absolute;
+    right: 0;
+    top: -125px;
+    div {
+      height: 56px;
+    }
+  }
+  .dy-save-btn {
+    margin-top: 15px;
+  }
+  .alert-warning {
+    vertical-align: bottom;
+    line-height: 34px;
+    padding: 5px;
+  }
+  .dy-color {
+    margin-top: 15px;
+  }
+  .dy-0 {
+    .rotate(0);
+    border: 5px solid #5cb85c;
+    padding: 0;
+  }
+  .dy-90 {
+    .rotate(90);
+    pointer-events: none;
+  }
+  .dy-180{
+    .rotate(180);
+    pointer-events: none;
+  }
+  .dy-270 {
+    .rotate(270);
+    pointer-events: none;
+  }
+  .dy-preview-90 {
+    position: absolute;
+    .rotate(-90deg);
+    top: 9px;
+    left: -4px;
+    font-size: 26px;
+    color: rgba(0, 0, 0, 0.3);
+  }
+  .dy-preview-180 {
+    position: absolute;
+    .rotate(-180deg);
+    top: 20px;
+    padding-left: 7px;
+    font-size: 26px;
+    color: rgba(0, 0, 0, 0.3);
+  }
+  .dy-preview-270 {
+    position: absolute;
+    .rotate(-270deg);
+    top: 23px;
+    left: 4px;
+    font-size: 26px;
+    color: rgba(0, 0, 0, 0.3);
+  }
+  .dy-color {
+    .size(2em);
+    border-radius: 50%;
+    display: block;
+    float: left;
+    margin: 0 1em 0 0;
+    cursor: pointer;
+  }
+  .dy-color-section {
+    padding-top: 20px;
+    ul {
+      height: 2em;
+    }
+  }
+}

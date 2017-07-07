@@ -1,0 +1,101 @@
+<div class="modal dy-game-menu" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span>Pause</span>
+            </div>
+            <div class="modal-body">
+                <div data-ng-switch on="vm.getCurrentView()">
+                    <div data-ng-switch-when="instructions">
+                        <div class="row dy-game-guide" 
+                            data-ng-hide="vm.isMobileDevice()">
+                            <div class="col-sm-4 col-xs-6">
+                                <span>Key:</span> &uparrow; <span>Rotate <i class="fa fa-rotate-right"></i></span>
+                            </div>
+                            <div class="col-sm-4 col-xs-6">
+                                <span>Key:</span> &rightarrow; <span>Move Right</span>
+                            </div>
+                            <div class="col-sm-4 col-xs-6">
+                                <span>Key:</span> &downarrow; <span>Rotate <i class="fa fa-rotate-left"></i></span>
+                            </div>
+                            <div class="col-sm-4 col-xs-6">
+                                <span>Key:</span> &leftarrow; <span>Move Left</span>
+                            </div>
+                            <div class="col-sm-8">
+                                <span>Space key:</span> <span>Hard Drop</span>
+                            </div>
+                        </div>
+                        <div class="row dy-game-settings">
+                            <div class="col-sm-12">
+                                <div>You can choose your level:</div>
+                                <div di-bootstrap-slider></div>
+                            </div>
+                        </div>
+                        <div class="row dy-game-design">
+                            <div class="col-sm-12">
+                                <div>You can design your own Tetris:</div>
+                                <button class="pull-left btn btn-success tada"
+                                    data-ng-click="vm.designNewPiece()">
+                                    Make your own Tetris
+                                </button>
+                            </div>
+                        </div>
+                        <div class="row dy-game-load-game" 
+                            data-ng-show="vm.hasGameHistory()">
+                            <div class="col-sm-12">
+                                <div>Your last saved time: <span data-ng-bind="vm.getSavedTime()"></span></div>
+                                <button class="pull-left btn btn-info"
+                                        data-ng-click="vm.restoreGame()">
+                                    Restore Game
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-ng-switch-when="design">
+                        <div class="row" data-ng-show="vm.isShowBackBtn()">
+                            <div class="col-sm-12">
+                                <button class="btn pull-left btn-default dy-back-btn"
+                                    data-ng-click="vm.goBack()">&lt;Back to instruction</button>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div di-design-piece></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row dy-game-buttons well">
+                    <div class="col-sm-3 col-xs-3">
+                        <button class="btn btn-danger"
+                            data-ng-click="vm.endGame()"
+                            data-ng-show="vm.isShowBackBtn()">
+                            End Game
+                        </button>
+                    </div>
+                    <div class="col-sm-3 col-xs-3">
+                        <button class="btn btn-warning"
+                            data-ng-click="vm.restartGame()"
+                            data-ng-show="vm.isShowBackBtn()">
+                            Restart Game
+                        </button>
+                    </div>
+                    <div class="col-sm-3 col-xs-3" 
+                        data-ng-show="vm.isShowSaveGameBtn()">
+                        <button class="btn btn-success"
+                            data-ng-click="vm.saveGame()"
+                            data-ng-show="vm.isShowBackBtn()">
+                            Save Game
+                        </button>
+                    </div>
+                    <div class="col-sm-3 col-xs-3">
+                        <button class="btn btn-info"
+                            data-ng-click="vm.continueGame()">
+                            Continue Game
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
