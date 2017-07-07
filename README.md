@@ -45,7 +45,7 @@ Applied Programming Language - Web Cloud-based application
 
 ### > Lab #04 - Tetris Game
 
-> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab03/Source">Lab #4 Source(Unfinished) </a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab04">Lab #4 Source(Unfinished) </a>
 > --- <a href="https://github.com/daihuaye/ngTetris"> Reference Source</a>
 
 > <a href="">Lab #4 Wiki Lab Report</a>
