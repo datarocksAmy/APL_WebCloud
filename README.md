@@ -49,3 +49,11 @@ Applied Programming Language - Web Cloud-based application
 > --- <a href="https://github.com/daihuaye/ngTetris"> Reference Source</a>
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2304">Lab #4 Wiki Lab Report</a>
+
+### > Lab #05 - APIs
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab05/Source">Lab #5 Source</a>
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab05/Documentation">Lab #5 Documentation</a>
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2305">Lab #5 Wiki Lab Report</a>
