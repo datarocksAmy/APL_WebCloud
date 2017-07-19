@@ -57,3 +57,11 @@ Applied Programming Language - Web Cloud-based application
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab05/Documentation">Lab #5 Documentation</a>
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2305">Lab #5 Wiki Lab Report</a>
+
+### > Lab #06 - NodeJS + MongoDB
+
+> <a href="">Lab #6 Source</a>
+
+> <a href="">Lab #6 Documentation</a>
+
+> <a href="">Lab #6 Wiki Lab Report</a>
