@@ -64,4 +64,4 @@ Applied Programming Language - Web Cloud-based application
 
 > <a href="">Lab #6 Documentation</a>
 
-> <a href="">Lab #6 Wiki Lab Report</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2306">Lab #6 Wiki Lab Report</a>
