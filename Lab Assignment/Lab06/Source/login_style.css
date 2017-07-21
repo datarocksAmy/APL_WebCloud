@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+h1 {
+    color: #111;
+    font-family: 'Megrim', cursive;
+    font-size: 100px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    font-family: 'Special Elite', cursive;
+}
+
+button
+{
+    font-family: 'Special Elite', cursive;
+    background: #cc0000;
+    width: 80%;
+    padding: 5px;
+    font-size: 1.3em;
+    letter-spacing:2px;
+    color: #fff;
+    display: block;
+    margin: 10px auto;
+    float: none;
+}
