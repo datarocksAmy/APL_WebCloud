@@ -15,9 +15,7 @@ Applied Programming Language - Web Cloud-based application
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/ICE/ICE03">ICE #3-Source Code</a>
 
-### > ICE #04 - Extensions on Memory Game
 
-> <a href="">ICE #4-Source Code</a>
 <hr>
 
 ## Lab Assignment
@@ -65,3 +63,11 @@ Applied Programming Language - Web Cloud-based application
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab06/Documentation">Lab #6 Documentation</a>
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2306">Lab #6 Wiki Lab Report</a>
+
+### > Lab #07 - Twitter trend analysis with D3plus
+
+> <a href="">Lab #7 Source</a>
+
+> <a href="">Lab #7 Documentation</a>
+
+> <a href="">Lab #7 Wiki Lab Report</a>
