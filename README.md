@@ -64,10 +64,10 @@ Applied Programming Language - Web Cloud-based application
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2306">Lab #6 Wiki Lab Report</a>
 
-### > Lab #07 - Twitter trend analysis with D3plus
+### > Lab #07 - Twitter trend analysis with D3plus + D3 Visualization
 
-> <a href="">Lab #7 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/blob/master/Lab%20Assignment/Lab07/Source/Lab07-1%20D3plus.html">Lab #7-1 Twitter trend Source</a>
 
-> <a href="">Lab #7 Documentation</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab07/Documentation">Lab #7 Documentation</a>
 
 > <a href="">Lab #7 Wiki Lab Report</a>
