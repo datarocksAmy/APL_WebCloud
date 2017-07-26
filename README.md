@@ -68,7 +68,9 @@ Applied Programming Language - Web Cloud-based application
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/blob/master/Lab%20Assignment/Lab07/Source/Lab07-1%20D3plus.html">Lab #7-1 Twitter trend analysis Source</a>
 
-> <a href="https://github.com/datarocksAmy/APL_WebCloud/blob/master/Lab%20Assignment/Lab07/Source/Lab07-1%20D3plus.html">Lab #7-2 SEB Stock Price Visualization Source</a>
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab07/Source/D3%20Bar%20Chart">Lab #7-2 SEB Stock Price Visualization - Bar chart Source</a>
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab07/Source/D3%20Heat%20Map">Lab #7-2 SEB Stock Price Visualization - Heat Map Source</a>
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab07/Documentation">Lab #7 Documentation</a>
 
