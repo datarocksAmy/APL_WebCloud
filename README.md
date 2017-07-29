@@ -75,3 +75,11 @@ Applied Programming Language - Web Cloud-based application
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab07/Documentation">Lab #7 Documentation</a>
 
 > <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2307">Lab #7 Wiki Lab Report</a>
+
+### > Lab #08 - JSON + D3 Collapsible Tree
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/tree/master/Lab%20Assignment/Lab08/Source">Lab #8 Source</a>
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/blob/master/Lab%20Assignment/Lab08/Documentation/Top10NationalPark_Colorado.png">Lab #8 Documentation</a>
+
+> <a href="https://github.com/datarocksAmy/APL_WebCloud/wiki/WebCloud-Lab-Report-%2308">Lab #8 Wiki Lab Report</a>
