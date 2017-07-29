@@ -1,0 +1,72 @@
+{
+  "name": "Colorado",
+  "children": [
+    {
+      "name": "Fruita",
+      "children": [
+        {
+          "name": "Colorado National Monument"
+        }
+      ]
+    },
+    {
+      "name": "Black Canyon Of The Gunnison National Park",
+      "children": [
+        {"name": "Black Canyon"}
+      ]
+    },
+    {
+      "name": "Durango",
+      "children": [
+        {
+          "name": "San Juan National Forest"
+        }
+      ]
+    },
+    {
+      "name": "Cortez",
+      "children": [
+        {"name": "Hovernweek National Monument"}
+      ]
+    },
+    {
+      "name": "Mosca",
+      "children": [
+        {"name": "Great Sand Dunes National Park"}
+      ]
+    },
+    {
+      "name": "Mesa Verde",
+      "children": [
+        {"name": "Mesa Verde National Park"}
+      ]
+    },
+    {
+      "name": "Florissant",
+      "children": [
+        {"name": "Florissant Fossil Beds National Monument"}
+      ]
+    },
+    {
+      "name": "Gunnison",
+      "children": [
+        {"name": "Curecanti National Recreation Area"},
+        {"name": "Gunnison National Forest"}
+      ]
+    },
+    {
+      "name": "Pueblo",
+      "children": [
+        {"name": "San Isabel National Forest"}
+      ]
+    },
+    {
+      "name": "Great Sand Dunes National Park & Preserve",
+      "children": [
+        {
+          "name": "High Dune Trail"
+        }
+          ]
+        }
+      ]
+}
